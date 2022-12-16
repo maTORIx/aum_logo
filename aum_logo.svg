@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg" style="rotate: 90deg;">
+    <style>@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400&amp;family=Noto+Serif+JP:wght@500')</style>
+    <path d="M 25.5 75 a 49.5,49.5 0 1,1 0,1 z" fill="transparent" stroke="#000" stroke-opacity="1" stroke-width="0.5"/>
+    <path d="M 25 75 a 50,50 90 1,1 0,1 z" id="circle" fill="transparent"/>
+    <text>
+      <textPath href="#circle" textLength="309" style="font-family: 'Source Serif Pro', serif; font-size: 8px; text-align: justify; padding-bottom: 2px;">AUMSHINRIKYOAUMSHINRIKYOAUMSHINRIKYOΩ</textPath>
+    </text>
+    <text x="-119.5" y="108" font-family="Noto Serif JP" font-size="87" font-weight="500" style="rotate: -90deg;">秘</text>
+</svg>
